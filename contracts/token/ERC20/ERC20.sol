@@ -15,8 +15,8 @@ import {IERC20Errors} from "../../interfaces/draft-IERC6093.sol";
  * that a supply mechanism has to be added in a derived contract using {_mint}.
  *
  * TIP: For a detailed writeup see our guide
- * https://forum.openzeppelin.com/t/how-to-implement-erc20-supply-mechanisms/226[How
- * to implement supply mechanisms].
+ *import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol";
+
  *
  * The default value of {decimals} is 18. To change this, you should override
  * this function so it returns a different value.
